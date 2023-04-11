@@ -1,8 +1,8 @@
 - Allison James
 - Middlebury College Class of 2023, Majoring in Computer Science and Minoring in Biology and Psychology
-- I’m particularly interested in data science, especially the intersection between data science and other disciplines.
-- I have taken classes in Big Data, Data Science, GIS, and Spatial Agent-Based Modeling, as well as computer science-related math courses. 
-- I have used Python, Java, R, and NetLogo.
+- I’m particularly interested in data science, especially the intersection between data science and environmental health.
+- I have taken classes in Big Data, Data Science, Artificial Intelligence, and Spatial Agent-Based Modeling, as well as computer science-related math courses. 
+- I have used Python, Java, JavaScript, R, and NetLogo.
 - Reach me at amjames@middlebury.edu
 
 <!---
